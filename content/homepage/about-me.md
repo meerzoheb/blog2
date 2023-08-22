@@ -1,15 +1,29 @@
 ---
-title: "About Me"
-weight: 3
+title: "About Us"
+weight: 2
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+![NutriWhiz](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-##### Professional Experience
+At Nutriwhiz, our driving force is to illuminate healthier lives through the magic of nutrition education. With an unwavering dedication to empowering both educators and students, we present tailored solutions that seamlessly infuse the extraordinary power of nutrition into the very core of your school curriculum.
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+##### Our Vision:
+Cultivating Lifelong Wellness, One Lesson at a Time!
 
 ----
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+##### Empowerment Redefined:
+Unlocking a Brighter Future with the Force of Nutrition
+
+Here's to a future where well-being thrives and education shines brighter than ever before. At Nutriwhiz, we are your partners in empowering educators to guide their students toward a life of vitality and success. Our exceptional services are meticulously designed to weave the enchantment of nutrition into every facet of your educational journey.
+
+----
+
+##### Why Choose Nutriwhiz?
+
+* **Tailored Services:** Every school is unique, and so are our solutions.
+* **Unleash Potential:** Harness the transformative influence of nutrition on learning and growth.
+* **Seamless Integration:** We make nutrition a seamless part of your curriculum.
+* **Inspiring Futures:** Empower students to make informed choices for a lifetime of well-being.
+* **Expertise You Can Trust:** Backed by seasoned Nutritionist Instructors who truly understand the education landscape.

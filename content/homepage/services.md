@@ -1,29 +1,31 @@
 ---
-title: "The Services I Offer"
+title: "The Services We Offer"
 header_menu_title: "Services"
-navigation_menu_title: "My Services"
+navigation_menu_title: "Our Services"
 weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
-
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
-
----
-
-### Nutrition Coaching
-
-This is not an easy task. 
-You will likely have to pay money for this.
-
-### Chef Consulting
-
-I can raise your table culture!
-
 ![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
 
-Want to learn more about my services? See [dedicated page](services) with more details.
+### Online Nutritionist Instructor - Teacher Training Course
+Equip your teachers with the knowledge and tools they need to make a lasting impact on students' well-being. Our comprehensive Teacher Training Course is led by experienced Nutritionists, guiding educators through the principles of nutrition, healthy eating habits, and practical strategies for the classroom.
+
+## Program Highlights:
+
+* Customized curriculum development tailored to your school's needs.
+* Interactive online sessions covering essential nutrition topics.
+* Expert guidance on age-appropriate meal planning and healthy snack ideas.
+* Practical integration of nutrition education into lessons.
+* Tools to address nutrition-related concerns sensitively and effectively.
+* Insights into how nutrition impacts students' cognitive abilities and behavior.
+
+### Enriching Students' Lives: Nutrition Workshops
+Bring the magic of nutrition directly to your students through engaging workshops. Our interactive sessions inspire healthy eating behaviors, teach the significance of a balanced diet, and promote overall well-being. Watch as students learn the art of making nutritious choices in a fun and informative environment.
+
+## Workshop Offerings:
+
+* Interactive demonstrations on healthy cooking and snack preparation.
+* Engaging discussions about the importance of various nutrients.
+* Hands-on activities to promote understanding of food groups.
+* Exploration of the effects of nutrition on energy levels and concentration.

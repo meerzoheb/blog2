@@ -2,39 +2,24 @@
 title: "Services"
 ---
 
-This is a page about the services, which I offer.
+### Online Nutritionist Instructor - Teacher Training Course
+Equip your teachers with the knowledge and tools they need to make a lasting impact on students' well-being. Our comprehensive Teacher Training Course is led by experienced Nutritionists, guiding educators through the principles of nutrition, healthy eating habits, and practical strategies for the classroom.
 
-It carries a lot more detail than what I put on the homepage - I swear!
+## Program Highlights:
 
-You want to know what I can do for you?
+* Customized curriculum development tailored to your school's needs.
+* Interactive online sessions covering essential nutrition topics.
+* Expert guidance on age-appropriate meal planning and healthy snack ideas.
+* Practical integration of nutrition education into lessons.
+* Tools to address nutrition-related concerns sensitively and effectively.
+* Insights into how nutrition impacts students' cognitive abilities and behavior.
 
-Well, let me tell ya!
+### Enriching Students' Lives: Nutrition Workshops
+Bring the magic of nutrition directly to your students through engaging workshops. Our interactive sessions inspire healthy eating behaviors, teach the significance of a balanced diet, and promote overall well-being. Watch as students learn the art of making nutritious choices in a fun and informative environment.
 
----
+## Workshop Offerings:
 
-## Nutrition Coaching
-
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
-
-![Nice picture to make you pay me ;-)](../images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
-
-Wow. That was nice, right? Well, call me and let us talk.
-
----
-
-## Chef Consulting
-
-Did you see the picture above? I can show you how to go from
-
-![Let us get started on a clean slate](../images/board-bunch-cooking-food-349609.jpg)
-
-to
-
-![Let us get started on a clean slate](../images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
-
-Don't believe me? Here are some bullets
-
-* If anyone can teach you to cook, I can
-* And if you already know how to cook, I will make you that much better
+* Interactive demonstrations on healthy cooking and snack preparation.
+* Engaging discussions about the importance of various nutrients.
+* Hands-on activities to promote understanding of food groups.
+* Exploration of the effects of nutrition on energy levels and concentration.

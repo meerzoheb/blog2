@@ -1,14 +1,15 @@
 ---
 title: "Welcome"
+header_menu_title: "Welcome"
+navigation_menu_title: "Welcome"
 weight: 1
+header_menu: true
 ---
 
-`Hugo-Scroll` theme alternates colors of sections that are placed on single page. 
-The landing screen is meant to be visually striking.
+Discover a realm where health and knowledge intertwine, nurturing a generation of vibrant minds and thriving bodies. At Nutriwhiz, we are on a mission to transform education into an empowering journey of well-being. Our passion lies in illuminating the path toward healthier lives, equipping educators and students alike with the tools to make informed choices that resonate beyond the classroom.
 
-Single-page approach is oriented towards small to medium content length, that won't overwhelm the user. 
-You can also delegate lengthier, less important or more sizeable content to [dedicated pages](services).
+Join us in our pursuit of brilliance and vitality. Embrace the Nutriwhiz experience and witness the magic of health and education converging to unlock the potential within each student, every classroom, and the entire school community.
 
-> The belly rules the mind. --- spanish proverb
+Welcome to a world where wellness thrives and brilliance shines.
 
-By the way this welcome section won't show in the cover menu.
+> Ignite Minds. Nourish Lives. Transform Futures.
